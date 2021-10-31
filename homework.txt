@@ -1,4 +1,5 @@
 git
-rebase
+rebase!!!
 git stash
 merge
+docker
